@@ -1,9 +1,8 @@
 ### Hi Developers 👋
 
-[![YouTube Badge](https://img.shields.io/badge/YouTube-DeveloperFunnel-red)](https://www.youtube.com/developerfunnel)
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/aakash--01629954/)
-[![Website Badge](https://img.shields.io/badge/WebSite-Aakash-green)](https://www.akash)
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/3687251/aakash-)
+[![Linkedin Badge](https://img.shields.io/badge/-Jalpa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jalpa-sarvaliya-1487b8235/)](https://www.linkedin.com/in/jalpa-sarvaliya-1487b8235/)
+[![Website Badge](https://img.shields.io/badge/WebSite-Jalpa-green)](https://www.Jalpa)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Jalpa-yellow)](https://stackoverflow.com/users/19666097/jalpa-sarvaliya)
 
 I'm
 Full Stack Solution Architect
@@ -25,7 +24,7 @@ Languages and Tools:
 
 ![](https://activity-graph.herokuapp.com/graph?username=aakashdeveloper&theme=react-dark&area=true)
 <!--
-**Aakashdeveloper/Aakashdeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**jalpa9200/jalpa9200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
