@@ -8,7 +8,7 @@ I'm
 doing Full stack Web Development internship Program in Edureka . I am not working right now. I am from Surendranagar,Gujarat. I complete my B.E. in 2022 Elecrtonics and Communication course in GEC, Bhavnagar . 
 
 
-![Visitor Count](https://profile-counter.glitch.me/aakashdeveloper/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/jalpa9200/count.svg)
 
 <div>
   <h4>🏆 Github Profile Trophy</h4>
